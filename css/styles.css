@@ -1,6 +1,7 @@
 body{
-    font-family: "Roboto", "Raleway" sans-serif;
+    font-family: "Roboto", sans-serif;
     background: #fff;
+    font-family: #434455
 }
 
 ul,ol{
@@ -121,7 +122,9 @@ button{
 /* #endregion  advantag*/
 
 /* #region  team*/
-.team{}
+.team{
+    background: #f4f4fd;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
