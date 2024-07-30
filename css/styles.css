@@ -52,7 +52,7 @@ button{
 
 .adr {}
 
-.adr-item {}
+.adr-iteam {}
 
 .adr-comm {
     font-style: normal;
@@ -132,8 +132,8 @@ button{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize
-    color #2e2f42;
+    color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .menu-team {}
