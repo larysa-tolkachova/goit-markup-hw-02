@@ -1,6 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
-    background: #fff;
+    background-color: #fff;
     color: #434455;
 }
 
@@ -49,7 +49,9 @@ button{
 .menu-link:hover,.menu-link:focus{
     color: #404bbf;
 }
-.appeal{}
+.appeal{
+    font-style: normal
+}
 .adr {}
 
 .adr-iteam {}
@@ -92,7 +94,7 @@ button{
 }
 
 .button:hover,.button:focus{
-    background: #404bbf;
+    background-color: #404bbf;
 
 }
 
@@ -124,14 +126,13 @@ button{
 
 /* #region  team*/
 .team{
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .team-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
 }
@@ -139,7 +140,7 @@ button{
 .menu-team {}
 
 .team-list {
-    background: #fff;
+    background-color: #fff;
 }
 
 .team-name {
@@ -151,7 +152,7 @@ button{
     color: #2e2f42;
 }
 
-.team-position {
+.team-posada {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
